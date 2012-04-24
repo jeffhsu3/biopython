@@ -77,3 +77,8 @@ Doc/*/*/hevea.sty
 #Ignore IntelliJ IDEA directory and project files
 .idea
 *.iml
+
+#Ignore Sphinx Build Directories
+docs/build
+docs/make.bat
+docs/Makefile
